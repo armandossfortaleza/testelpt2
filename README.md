@@ -7,3 +7,5 @@ Nossa calculadora terá as seguinte operações:
 - Subtração
 - Multiplicação
 - Divisão
+
+Nossa calculadora vai funcionar em modo terminal.
