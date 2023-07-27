@@ -2,7 +2,7 @@
 Teste do github com a turma
 Vamos contruir uma mini-calculadora
 
-Nossa calculadora terá as seguinte operações:
+Nossa calculadora terá as seguintes operações:
 - Soma
 - Subtração
 - Multiplicação
