@@ -1,1 +1,1 @@
-pirnt("O Git e o GitHumb é muito aos 1990")
+pirnt("O Git e o GitHumb é muito anos 1990")
